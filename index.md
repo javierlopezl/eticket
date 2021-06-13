@@ -3,7 +3,6 @@
 **¿Qué es?**
 
 Es un sistema de tickets de soporte electrónico basado en PHP, que puede recibir tickets por correo electrónico (pop3 / pipe) o un formulario web. También ofrece un administrador de tickets con muchas funciones. Una solución de asistencia técnica ideal para cualquier sitio web.
-
  <br>
 
 **Principales características:**
@@ -25,9 +24,8 @@ Es un sistema de tickets de soporte electrónico basado en PHP, que puede recibi
 ·     Filtros para eliminar mensajes en respuestas.
 
 ·     Acepta archivos adjuntos y limita el tamaño.
-
- 
-
+  <br>
+  
 **Funciones de administración:**
 
 ·     Eliminar completamente los tickets de la base de datos.
@@ -43,33 +41,31 @@ Es un sistema de tickets de soporte electrónico basado en PHP, que puede recibi
 ·     Alertas por correo electrónico compatibles con buscapersonas.
 
 ·     y mucho más...
-
- 
+ <br>
 
 **Funciones de usuario:**
 
 ·     Inicie sesión con correo electrónico y cualquier boleto que se le asigne.
 
 ·     Ver todos los tickets enviados desde ese correo electrónico. 
-
- 
+ <br>
 
 **Guía de instalación/uso:**
 
 He descargado el eTicket en formato zip, lo he metido en el xampp y no me ha funcionado, y lo que he hecho junto con el profe, ha sido, descargar el vagrant y hacer lo siguiente:
-
- 
+ <br>
+ <br>
 
 Hemos puesto estos comandos en el cmd, crear el directorio xampp e instalar una máquina de vagrant ya que no hemos podido instalarlo en mi propio equipo ya que eTicket funciona con php 5, y yo tengo php 7 instalado.
-
+ <br>
 mkdir xampp
-
+ <br>
 cd xampp
-
+ <br>
 vagrant init danielbueno99/xampp
-
+ <br>
 vagrant up
-
+ <br>
  
 
 Hemos creado un fichero llamado phpinfo.php para poder ver a travez de xampp la versión y la información del php en el que vamos a instalar eTciket
@@ -142,7 +138,7 @@ Una vez hemos terminado, iniciamos sesión con el usuario "admin" y la contrase�
 
  
 
-***Pantalla principal eTicket\***
+**Pantalla principal eTicket\**
 
 
 
