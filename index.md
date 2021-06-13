@@ -4,7 +4,7 @@
 
 Es un sistema de tickets de soporte electrónico basado en PHP, que puede recibir tickets por correo electrónico (pop3 / pipe) o un formulario web. También ofrece un administrador de tickets con muchas funciones. Una solución de asistencia técnica ideal para cualquier sitio web.
 
-
+	
 **Principales características:**
 
 ·     Admite alias / tuberías con perl gateway.
