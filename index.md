@@ -162,7 +162,7 @@ Una vez hemos terminado, iniciamos sesión con el usuario "admin" y la contrase�
 
 
 
-#### ¿Cómo mandar un ticket?
+### ¿Cómo mandar un ticket?
 
 Aquí rellenamos todos los datos que nos piden para poder mandar un ticket, hay que tener en cuenta el correo porque ahí es donde mandaran el ID del ticket. Una vez se ha rellenado se genera el ID, y con él puedes ver el estado de el ticket correspondiente.
 
